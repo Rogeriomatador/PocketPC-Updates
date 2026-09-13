@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "channel": "development",
   "published": true,
-  "versionCode": 222273,
-  "versionName": "0.1.0-alpha22.home.2273",
-  "sourceRevision": "406004217879273f57249dcf08799c2b4558aa73",
+  "versionCode": 222296,
+  "versionName": "0.1.0-alpha22.home.2296",
+  "sourceRevision": "a54dd7d3f9e43b46811d27661d3c578b5a4c17f3",
   "packageName": "dev.pocketpc.core",
   "minApi": 26,
-  "apkUrl": "https://github.com/Rogeriomatador/PocketPC-Updates/releases/download/home-alpha22-2273-406004217879/PocketPC-0.1.0-alpha22.home.2273.apk",
-  "apkSha256": "224537aa9fc5cf34ea7a299cb1ff4cea6bc6e5d490edf05bcb1d883ea703e58e",
-  "notes": "Alpha 22 home-test build from private source revision 406004217879273f57249dcf08799c2b4558aa73"
+  "apkUrl": "https://github.com/Rogeriomatador/PocketPC-Updates/releases/download/home-alpha22-2296-a54dd7d3f9e4/PocketPC-0.1.0-alpha22.home.2296.apk",
+  "apkSha256": "4b8f9a7cc5b0840118f6016a971d9dfddfea336241ba3b377a74bb0b7843498c",
+  "notes": "Alpha 22 home-test build from private source revision a54dd7d3f9e43b46811d27661d3c578b5a4c17f3"
 }
